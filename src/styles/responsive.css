@@ -9,7 +9,7 @@
 		height: 40vh;
 	}
 
-	.hero__image {
+	.hero__image_home {
 		background-image: url('/assets/images/heros/hero-image_2-small.jpg');
 	}
 
@@ -98,7 +98,7 @@
 		font-size: xx-large;
 	}
 
-	.hero__image {
+	.hero__image_home {
 		background-image: url('/assets/images/heros/hero-image_2-large.jpg');
 	}
 

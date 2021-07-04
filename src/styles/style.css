@@ -167,6 +167,14 @@ main {
 	width: 100vw;
 	height: 70vh;
 	z-index: 0;
+	object-fit: cover;
+}
+
+.hero__image_home {
+  position: absolute;
+	width: 100vw;
+	height: 70vh;
+	z-index: 0;
 	object-fit: contain;
 	background-size: cover;
 	background-position: center;
