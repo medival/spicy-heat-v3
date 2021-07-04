@@ -3,13 +3,13 @@ import CONFIG from '../../global/config';
 const createHeroTemplate = (resto) => `
 	<section class="hero">
 	 <h1 class="hero__title"> ${resto.restaurant.name} </h1>
-	 <img class="hero__image" src="${CONFIG.BASE_IMAGE_URL + resto.restaurant.pictureId}" alt="${resto.name}">
+	 <img class="hero__image lazyload" data-src="${CONFIG.BASE_IMAGE_URL + resto.restaurant.pictureId}" alt="${resto.name}">
 	</section>
 `;
 
 const createRestoCardOverview = (resto) => `
 	<div class="container__image">
-	    <img src="${CONFIG.BASE_IMAGE_URL + resto.restaurant.pictureId}" class="container__image_overview" alt="${resto.name}">
+	    <img data-src="${CONFIG.BASE_IMAGE_URL + resto.restaurant.pictureId}" class="container__image_overview lazyload" alt="${resto.name}">
 	</div>
 	<div class="container__info">
 	    <h2 class="container__info_header"> ${resto.restaurant.name} </h2>
@@ -30,7 +30,7 @@ const createAvailableFoodsMenu = (food, dummy) => `
 			<div class="resto__food_icon">
 			</div>
 			<div class="resto__food_image">
-				<img src="${dummy.food}" alt="${food.name}" srcset="">
+				<img class="lazyload" data-src="${dummy.food}" alt="${food.name}" srcset="">
 			</div>
 			<div class="resto__food_info">
 				<div class="resto__food_name">
@@ -48,7 +48,7 @@ const createAvailableDrinksMenu = (drink, dummy) => `
 			<div class="resto__drink_icon">
 			</div>
 			<div class="resto__drink_image">
-				<img src="${dummy.drink}" alt="${drink.name}" srcset="">
+				<img class="lazyload" data-src="${dummy.drink}" alt="${drink.name}" srcset="">
 			</div>
 			<div class="resto__drink_info">
 				<div class="resto__drink_name">
@@ -63,7 +63,7 @@ const createAvailableDrinksMenu = (drink, dummy) => `
 
 const createCustomerReview = (review) => `
 		<div class="reviewer">
-		  <img src="https://www.pngitem.com/pimgs/m/24-248235_user-profile-avatar-login-account-fa-user-circle.png" alt="">
+		  <img class="lazyload" data-src="https://www.pngitem.com/pimgs/m/24-248235_user-profile-avatar-login-account-fa-user-circle.png" alt="">
 		  <div class="reviewer__name">
 		    <p> ${review.name} </p>
 		  </div>
@@ -81,7 +81,7 @@ ${review.review}
 const createRestoItemTemplate = (resto) => `
 	<a href="#/detail/${resto.id}" class="resto__selector">
 		<figure>
-				<img src="${CONFIG.BASE_IMAGE_URL + resto.pictureId}" alt="${resto.name}">
+				<img class="lazyload" data-src="${CONFIG.BASE_IMAGE_URL + resto.pictureId}" alt="${resto.name}">
 				<div class="resto__info_container">
 					<h4 class="resto__info"> ${resto.rating} </h4>
 				</div>
