@@ -7,6 +7,7 @@
     "start-dev": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "build-image": "node sharp.js",
+    "bundler-analyzer": "webpack-bundle-analyzer --port 4200 dist/stats.json",
     "test": "karma start"
   },
   "keywords": [],
