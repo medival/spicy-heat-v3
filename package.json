@@ -1,5 +1,5 @@
 {
-  "name": "spicy-heat-v2",
+  "name": "spicy-heat-v3",
   "version": "3.0.0",
   "description": "Submission-3-Front-End-Expert-Dicoding",
   "main": "index.js",
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/medival/spicy-heat-v2.git"
+    "url": "git+https://github.com/medival/spicy-heat-v3.git"
   },
   "bugs": {
-    "url": "https://github.com/medival/spicy-heat-v2/issues"
+    "url": "https://github.com/medival/spicy-heat-v3/issues"
   },
-  "homepage": "https://github.com/medival/spicy-heat-v2#readme"
+  "homepage": "https://github.com/medival/spicy-heat-v3#readme"
 }
