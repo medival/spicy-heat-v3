@@ -294,6 +294,12 @@ p.container__info_description {
   font-size: xx-large;
 }
 
+.resto__empty_resto {
+  text-align: center;
+  margin-bottom: 1em;
+  margin: 0 auto;
+}
+
 .resto__subtitle {
   text-align: center;
   margin-bottom: 1.5em;

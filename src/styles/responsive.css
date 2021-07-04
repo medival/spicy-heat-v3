@@ -114,6 +114,10 @@
 		margin-top: 2em;
 	}
 
+	.resto__empty_resto {
+		width: 90vw;
+	}
+
   .resto__list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -194,6 +198,10 @@
 
 	.resto__label {
 		margin-top: 0;
+	}
+
+	.resto__empty_resto {
+		width: 80vw;
 	}
 
 	.resto__list {
