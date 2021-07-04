@@ -8,6 +8,7 @@ const Favorite = {
 				<div class="resto__container">
 					<h2 class="resto__label"> Your Favorite Restaurant </h2>
 					<div id="resto" class="resto__list">
+            <h2 class="resto__empty_resto"> You don't have any favorite restaurant </h2>
 					</div>
 				</div>
 			</section>
