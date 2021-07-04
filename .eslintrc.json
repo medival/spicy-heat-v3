@@ -17,6 +17,7 @@
         "import/extensions": "off",
         "no-tabs": "off",
         "no-restricted-globals": "off",
-        "import/no-extraneous-dependencies": "off"
+        "import/no-extraneous-dependencies": "off",
+        "prefer-destructuring": "off"
     }
 }
