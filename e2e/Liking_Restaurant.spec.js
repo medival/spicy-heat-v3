@@ -22,7 +22,6 @@ Scenario('Liking one restaurant', async ({ I }) => {
   I.seeElement('.resto__list');
   I.seeElement('.resto__selector');
   I.seeElement('figure');
-  I.seeElement('.resto__container');
   I.seeElement('.resto__title');
 
   const firstResto = locate('figure').first();
@@ -37,7 +36,6 @@ Scenario('Liking one restaurant', async ({ I }) => {
   I.seeElement('.resto__list');
   I.seeElement('.resto__selector');
   I.seeElement('figure');
-  I.seeElement('.resto__container');
   I.seeElement('.resto__title');
 
   const likeRestoTitle = await I.grabTextFrom('.resto__title');
@@ -54,7 +52,6 @@ Scenario('Unliking one restaurant', async ({ I }) => {
   I.seeElement('.resto__list');
   I.seeElement('.resto__selector');
   I.seeElement('figure');
-  I.seeElement('.resto__container');
   I.seeElement('.resto__title');
 
   const firstResto = locate('figure').first();
@@ -68,7 +65,6 @@ Scenario('Unliking one restaurant', async ({ I }) => {
   I.amOnPage('/#/favorite');
   I.seeElement('.resto__list');
   I.seeElement('figure');
-  I.seeElement('.resto__container');
   I.seeElement('.resto__title');
 
   const likeResto = locate('figure').first();
