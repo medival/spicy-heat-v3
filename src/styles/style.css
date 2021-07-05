@@ -70,7 +70,7 @@ body {
 	left: -180px;
 	width: 150px;
 	transition: all 0.3s;
-	padding: 15px;
+	padding: 10px 15px;
 	background-color: white;
 	overflow: hidden;
 }
@@ -539,14 +539,10 @@ footer {
 }
 
 .footer__social-media-icons a {
-  padding: 1em;
+  padding: 13px;
   width: 4em;
   border-radius:	 0.3em;
   text-decoration: none;
-}
-
-.footer__social-media-icons a i {
-  font-size: x-large;
 }
 
 .social-icon-twitter {
