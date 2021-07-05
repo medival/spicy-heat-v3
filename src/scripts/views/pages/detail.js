@@ -84,8 +84,7 @@ const Detail = {
         pictureId: results.pictureId,
         description: results.description,
       },
-    },
-    console.log(results));
+    });
   },
 };
 
