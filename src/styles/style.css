@@ -294,10 +294,11 @@ p.container__info_description {
   font-size: xx-large;
 }
 
-.resto__empty_resto {
+.resto__empty_label {
   text-align: center;
   margin-bottom: 1em;
   margin: 0 auto;
+  color: var(--primary-color);
 }
 
 .resto__subtitle {
