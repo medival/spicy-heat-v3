@@ -63,7 +63,7 @@ const createAvailableDrinksMenu = (drink, dummy) => `
 
 const createCustomerReview = (review) => `
 		<div class="reviewer">
-		  <img class="lazyload" data-src="https://www.pngitem.com/pimgs/m/24-248235_user-profile-avatar-login-account-fa-user-circle.png" alt="">
+		  <img class="lazyload" data-src=""https://raw.githubusercontent.com/medival/food-and-drink/master/images/avatar/user-profile.webp" alt="avatar">
 		  <div class="reviewer__name">
 		    <p> ${review.name} </p>
 		  </div>
