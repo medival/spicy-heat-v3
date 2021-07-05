@@ -1,5 +1,3 @@
-
-
 # Kriteria Submission
 
 Fitur yang harus ada pada aplikasi:
