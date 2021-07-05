@@ -10,7 +10,10 @@
 	}
 
 	.hero__image_home {
-		background-image: url('/assets/images/heros/hero-image_2-small.jpg');
+		background: url('/assets/images/heros/hero-image_2-small.jpg');
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
 	}
 
 	.resto__label {
@@ -99,7 +102,10 @@
 	}
 
 	.hero__image_home {
-		background-image: url('/assets/images/heros/hero-image_2-large.jpg');
+		background: url('/assets/images/heros/hero-image_2-large.jpg');
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
 	}
 
 	.hero__subtitle {
