@@ -10,8 +10,6 @@ const LikeButtonInitiator = {
 
   async _renderButton() {
     const { id } = this._resto;
-
-    // console.log(this._resto);
     if (await this._isRestoExist(id)) {
       this._renderLiked();
     } else {
@@ -30,7 +28,6 @@ const LikeButtonInitiator = {
     const likeButton = document.querySelector('#likeButton');
     likeButton.addEventListener('click', async () => {
       await FavoriteRestoIdb.putRestos(this._resto);
-      console.log(this._resto);
       this._renderButton();
     });
   },

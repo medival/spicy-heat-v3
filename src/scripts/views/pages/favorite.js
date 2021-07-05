@@ -22,7 +22,6 @@ const Favorite = {
 
     if (restos.length !== 0) {
       restos.forEach((resto) => {
-        console.log(resto);
         restosContainer.innerHTML += createRestoItemTemplate(resto);
       });
       emptyLabel.style.display = 'none';
