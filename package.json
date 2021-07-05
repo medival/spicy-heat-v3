@@ -8,7 +8,8 @@
     "build": "webpack --config webpack.prod.js",
     "build-image": "node sharp.js",
     "bundler-analyzer": "webpack-bundle-analyzer --port 4200 dist/stats.json",
-    "test": "karma start"
+    "test": "karma start",
+    "e2e": "codeceptjs run --steps"
   },
   "keywords": [],
   "author": "adi purnomo <dev.adipurnomo@gmail.com>",
