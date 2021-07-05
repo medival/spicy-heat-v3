@@ -176,9 +176,6 @@ main {
 	height: 70vh;
 	z-index: 0;
 	object-fit: contain;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
 }
 
 .hero__title {
