@@ -27,7 +27,7 @@
     },
     {
       "src": "assets/icon/favicon-96x96.png",
-      "sizes": "76x76",
+      "sizes": "96x96",
       "type": "image/png",
       "purpose": "any maskable"
     },
@@ -44,8 +44,8 @@
       "purpose": "any maskable"
     },
     {
-      "src": "assets/icon/mstile-150x150.png",
-      "sizes": "150x150",
+      "src": "assets/icon/mstile-270x270.png",
+      "sizes": "270x270",
       "type": "image/png",
       "purpose": "any maskable"
     },
@@ -56,8 +56,8 @@
       "purpose": "any maskable"
     },
     {
-      "src": "assets/icon/mstile-310x310.png",
-      "sizes": "310x310",
+      "src": "assets/icon/mstile-558x558.png",
+      "sizes": "558x558",
       "type": "image/png",
       "purpose": "any maskable"
     }
