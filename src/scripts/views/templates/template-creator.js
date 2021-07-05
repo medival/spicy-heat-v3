@@ -3,7 +3,7 @@ import CONFIG from '../../global/config';
 const createHeroTemplate = (resto) => `
 	<section class="hero">
 	 <h1 class="hero__title"> ${resto.restaurant.name} </h1>
-	 <img class="hero__image lazyload" data-src="${CONFIG.BASE_IMAGE_URL + resto.restaurant.pictureId}" alt="${resto.name}">
+	 <img class="hero__image lazyload" data-src="${CONFIG.BASE_IMAGE_URL_MEDIUM + resto.restaurant.pictureId}" alt="${resto.name}">
 	</section>
 `;
 
