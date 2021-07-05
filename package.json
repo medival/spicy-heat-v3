@@ -48,6 +48,7 @@
     "whatwg-fetch": "^3.2.0"
   },
   "dependencies": {
+    "firebase-tools": "^9.14.0",
     "idb": "^6.1.2",
     "imagemin-pngquant": "^6.0.1",
     "lazysizes": "^5.3.2",
