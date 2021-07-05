@@ -73,6 +73,8 @@ var serviceWorkerOption = {
     "/main~29f26ec8.bundle.js",
     "/main~36b9faef.bundle.js",
     "/main~4cb58183.bundle.js",
+    "/main~50056b6d.bundle.js",
+    "/main~5395b641.bundle.js",
     "/main~5785a947.bundle.js",
     "/main~5b1324f7.bundle.js",
     "/main~73c02ba8.bundle.js",
