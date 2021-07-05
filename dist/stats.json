@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "4c5cffcb1e4faf44f277",
-  "time": 78968,
-  "builtAt": 1625467321957,
+  "hash": "cdb1fe4290dee70c3426",
+  "time": 77294,
+  "builtAt": 1625473140518,
   "publicPath": "",
   "outputPath": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/dist",
   "assetsByChunkName": {
@@ -629,24 +629,24 @@
       "emitted": true
     },
     {
-      "name": "assets/icon/mstile-150x150.png",
+      "name": "assets/icon/mstile-270x270.png",
       "size": 4334,
       "chunks": [],
       "chunkNames": [],
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/assets/icon/mstile-150x150.png"
+        "sourceFilename": "src/public/assets/icon/mstile-270x270.png"
       },
       "emitted": true
     },
     {
-      "name": "assets/icon/mstile-310x310.png",
+      "name": "assets/icon/mstile-558x558.png",
       "size": 17971,
       "chunks": [],
       "chunkNames": [],
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/assets/icon/mstile-310x310.png"
+        "sourceFilename": "src/public/assets/icon/mstile-558x558.png"
       },
       "emitted": true
     },
@@ -669,17 +669,6 @@
       "info": {
         "copied": true,
         "sourceFilename": "src/public/assets/images/.DS_Store"
-      },
-      "emitted": true
-    },
-    {
-      "name": "assets/images/logo/.DS_Store",
-      "size": 6148,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/public/assets/images/logo/.DS_Store"
       },
       "emitted": true
     },
@@ -862,6 +851,28 @@
       "emitted": true
     },
     {
+      "name": "images/.DS_Store",
+      "size": 6148,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/public/images/.DS_Store"
+      },
+      "emitted": true
+    },
+    {
+      "name": "images/logo/.DS_Store",
+      "size": 6148,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/public/images/logo/.DS_Store"
+      },
+      "emitted": true
+    },
+    {
       "name": "index.html",
       "size": 10116,
       "chunks": [],
@@ -943,7 +954,7 @@
     },
     {
       "name": "main~73c02ba8.bundle.js",
-      "size": 3984,
+      "size": 3962,
       "chunks": [
         13
       ],
@@ -979,7 +990,7 @@
     },
     {
       "name": "main~be6f8458.bundle.js",
-      "size": 1440,
+      "size": 1425,
       "chunks": [
         16
       ],
@@ -2048,9 +2059,9 @@
           "chunks": [
             6
           ],
-          "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/responsive.css",
-          "issuerId": 25,
-          "issuerName": "./src/styles/responsive.css",
+          "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
+          "issuerId": 23,
+          "issuerName": "./src/styles/style.css",
           "issuerPath": [
             {
               "id": 27,
@@ -2058,9 +2069,9 @@
               "name": "./src/scripts/index.js"
             },
             {
-              "id": 25,
-              "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/responsive.css",
-              "name": "./src/styles/responsive.css"
+              "id": 23,
+              "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
+              "name": "./src/styles/style.css"
             }
           ],
           "failed": false,
@@ -3105,9 +3116,9 @@
           "chunks": [
             12
           ],
-          "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/resto.js",
-          "issuerId": 8,
-          "issuerName": "./src/scripts/views/pages/resto.js",
+          "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
+          "issuerId": 18,
+          "issuerName": "./src/scripts/views/pages/favorite.js",
           "issuerPath": [
             {
               "id": 27,
@@ -3125,9 +3136,9 @@
               "name": "./src/scripts/routes/routes.js"
             },
             {
-              "id": 8,
-              "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/resto.js",
-              "name": "./src/scripts/views/pages/resto.js"
+              "id": 18,
+              "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             }
           ],
           "failed": false,
@@ -3232,7 +3243,7 @@
               "moduleName": "./src/scripts/utils/like-button-initiator.js",
               "type": "harmony import specifier",
               "userRequest": "../views/templates/template-creator",
-              "loc": "92:42-66"
+              "loc": "91:42-66"
             },
             {
               "moduleId": 16,
@@ -3241,7 +3252,7 @@
               "moduleName": "./src/scripts/utils/like-button-initiator.js",
               "type": "harmony import specifier",
               "userRequest": "../views/templates/template-creator",
-              "loc": "118:42-67"
+              "loc": "115:42-67"
             },
             {
               "moduleId": 18,
@@ -3259,7 +3270,7 @@
               "moduleName": "./src/scripts/views/pages/favorite.js",
               "type": "harmony import specifier",
               "userRequest": "../templates/template-creator",
-              "loc": "42:47-70"
+              "loc": "41:47-70"
             }
           ],
           "usedExports": [
@@ -3306,14 +3317,14 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 8200,
+      "size": 8127,
       "names": [
         "main~73c02ba8"
       ],
       "files": [
         "main~73c02ba8.bundle.js"
       ],
-      "hash": "8b783dc9fdc48bede848",
+      "hash": "26f0ddd307672b71edac",
       "siblings": [
         0,
         1,
@@ -3547,7 +3558,7 @@
           "name": "./src/scripts/utils/like-button-initiator.js",
           "index": 22,
           "index2": 21,
-          "size": 4814,
+          "size": 4741,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4005,14 +4016,14 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 2712,
+      "size": 2674,
       "names": [
         "main~be6f8458"
       ],
       "files": [
         "main~be6f8458.bundle.js"
       ],
-      "hash": "e4d4fce017b0f0ea8ecb",
+      "hash": "65ad7a85759fc0e68a1f",
       "siblings": [
         0,
         1,
@@ -4042,7 +4053,7 @@
           "name": "./src/scripts/views/pages/favorite.js",
           "index": 26,
           "index2": 23,
-          "size": 2712,
+          "size": 2674,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4212,7 +4223,7 @@
               "moduleName": "./src/scripts/utils/like-button-initiator.js",
               "type": "harmony import specifier",
               "userRequest": "../data/favorite-resto-idb",
-              "loc": "75:21-37"
+              "loc": "74:21-37"
             },
             {
               "moduleId": 16,
@@ -4221,7 +4232,7 @@
               "moduleName": "./src/scripts/utils/like-button-initiator.js",
               "type": "harmony import specifier",
               "userRequest": "../data/favorite-resto-idb",
-              "loc": "100:21-37"
+              "loc": "99:21-37"
             },
             {
               "moduleId": 16,
@@ -4230,7 +4241,7 @@
               "moduleName": "./src/scripts/utils/like-button-initiator.js",
               "type": "harmony import specifier",
               "userRequest": "../data/favorite-resto-idb",
-              "loc": "126:21-37"
+              "loc": "123:21-37"
             },
             {
               "moduleId": 18,
@@ -4289,9 +4300,9 @@
       "chunks": [
         12
       ],
-      "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/resto.js",
-      "issuerId": 8,
-      "issuerName": "./src/scripts/views/pages/resto.js",
+      "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
+      "issuerId": 18,
+      "issuerName": "./src/scripts/views/pages/favorite.js",
       "issuerPath": [
         {
           "id": 27,
@@ -4309,9 +4320,9 @@
           "name": "./src/scripts/routes/routes.js"
         },
         {
-          "id": 8,
-          "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/resto.js",
-          "name": "./src/scripts/views/pages/resto.js"
+          "id": 18,
+          "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
+          "name": "./src/scripts/views/pages/favorite.js"
         }
       ],
       "failed": false,
@@ -4416,7 +4427,7 @@
           "moduleName": "./src/scripts/utils/like-button-initiator.js",
           "type": "harmony import specifier",
           "userRequest": "../views/templates/template-creator",
-          "loc": "92:42-66"
+          "loc": "91:42-66"
         },
         {
           "moduleId": 16,
@@ -4425,7 +4436,7 @@
           "moduleName": "./src/scripts/utils/like-button-initiator.js",
           "type": "harmony import specifier",
           "userRequest": "../views/templates/template-creator",
-          "loc": "118:42-67"
+          "loc": "115:42-67"
         },
         {
           "moduleId": 18,
@@ -4443,7 +4454,7 @@
           "moduleName": "./src/scripts/views/pages/favorite.js",
           "type": "harmony import specifier",
           "userRequest": "../templates/template-creator",
-          "loc": "42:47-70"
+          "loc": "41:47-70"
         }
       ],
       "usedExports": [
@@ -4840,7 +4851,7 @@
           "moduleName": "./src/scripts/utils/like-button-initiator.js",
           "type": "harmony import specifier",
           "userRequest": "../data/favorite-resto-idb",
-          "loc": "75:21-37"
+          "loc": "74:21-37"
         },
         {
           "moduleId": 16,
@@ -4849,7 +4860,7 @@
           "moduleName": "./src/scripts/utils/like-button-initiator.js",
           "type": "harmony import specifier",
           "userRequest": "../data/favorite-resto-idb",
-          "loc": "100:21-37"
+          "loc": "99:21-37"
         },
         {
           "moduleId": 16,
@@ -4858,7 +4869,7 @@
           "moduleName": "./src/scripts/utils/like-button-initiator.js",
           "type": "harmony import specifier",
           "userRequest": "../data/favorite-resto-idb",
-          "loc": "126:21-37"
+          "loc": "123:21-37"
         },
         {
           "moduleId": 18,
@@ -5521,9 +5532,9 @@
       "chunks": [
         6
       ],
-      "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/responsive.css",
-      "issuerId": 25,
-      "issuerName": "./src/styles/responsive.css",
+      "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
+      "issuerId": 23,
+      "issuerName": "./src/styles/style.css",
       "issuerPath": [
         {
           "id": 27,
@@ -5531,9 +5542,9 @@
           "name": "./src/scripts/index.js"
         },
         {
-          "id": 25,
-          "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/responsive.css",
-          "name": "./src/styles/responsive.css"
+          "id": 23,
+          "identifier": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
+          "name": "./src/styles/style.css"
         }
       ],
       "failed": false,
@@ -5886,7 +5897,7 @@
       "name": "./src/scripts/utils/like-button-initiator.js",
       "index": 22,
       "index2": 21,
-      "size": 4814,
+      "size": 4741,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -6038,7 +6049,7 @@
       "name": "./src/scripts/views/pages/favorite.js",
       "index": 26,
       "index2": 23,
-      "size": 2712,
+      "size": 2674,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -6596,7 +6607,7 @@
         },
         {
           "type": "log",
-          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/.DS_Store' should write to 'assets/images/.DS_Store'"
+          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/images/.DS_Store' should write to 'images/.DS_Store'"
         },
         {
           "type": "log",
@@ -6716,7 +6727,7 @@
         },
         {
           "type": "log",
-          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-150x150.png' should write to 'assets/icon/mstile-150x150.png'"
+          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-270x270.png' should write to 'assets/icon/mstile-270x270.png'"
         },
         {
           "type": "log",
@@ -6724,7 +6735,7 @@
         },
         {
           "type": "log",
-          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-310x310.png' should write to 'assets/icon/mstile-310x310.png'"
+          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-558x558.png' should write to 'assets/icon/mstile-558x558.png'"
         },
         {
           "type": "log",
@@ -6740,7 +6751,15 @@
         },
         {
           "type": "log",
-          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/logo/.DS_Store' should write to 'assets/images/logo/.DS_Store'"
+          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/.DS_Store' should write to 'assets/images/.DS_Store'"
+        },
+        {
+          "type": "log",
+          "message": "'to' option '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/dist' determinated as 'dir'"
+        },
+        {
+          "type": "log",
+          "message": "determined that '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/images/logo/.DS_Store' should write to 'images/logo/.DS_Store'"
         },
         {
           "type": "log",
@@ -6788,11 +6807,11 @@
         },
         {
           "type": "log",
-          "message": "writing 'assets/images/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/.DS_Store' to compilation assets..."
+          "message": "writing 'images/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/images/.DS_Store' to compilation assets..."
         },
         {
           "type": "log",
-          "message": "written 'assets/images/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/.DS_Store' to compilation assets"
+          "message": "written 'images/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/images/.DS_Store' to compilation assets"
         },
         {
           "type": "log",
@@ -6908,19 +6927,19 @@
         },
         {
           "type": "log",
-          "message": "writing 'assets/icon/mstile-150x150.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-150x150.png' to compilation assets..."
+          "message": "writing 'assets/icon/mstile-270x270.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-270x270.png' to compilation assets..."
         },
         {
           "type": "log",
-          "message": "written 'assets/icon/mstile-150x150.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-150x150.png' to compilation assets"
+          "message": "written 'assets/icon/mstile-270x270.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-270x270.png' to compilation assets"
         },
         {
           "type": "log",
-          "message": "writing 'assets/icon/mstile-310x310.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-310x310.png' to compilation assets..."
+          "message": "writing 'assets/icon/mstile-558x558.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-558x558.png' to compilation assets..."
         },
         {
           "type": "log",
-          "message": "written 'assets/icon/mstile-310x310.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-310x310.png' to compilation assets"
+          "message": "written 'assets/icon/mstile-558x558.png' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/icon/mstile-558x558.png' to compilation assets"
         },
         {
           "type": "log",
@@ -6932,11 +6951,19 @@
         },
         {
           "type": "log",
-          "message": "writing 'assets/images/logo/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/logo/.DS_Store' to compilation assets..."
+          "message": "writing 'assets/images/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/.DS_Store' to compilation assets..."
         },
         {
           "type": "log",
-          "message": "written 'assets/images/logo/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/logo/.DS_Store' to compilation assets"
+          "message": "written 'assets/images/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/assets/images/.DS_Store' to compilation assets"
+        },
+        {
+          "type": "log",
+          "message": "writing 'images/logo/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/images/logo/.DS_Store' to compilation assets..."
+        },
+        {
+          "type": "log",
+          "message": "written 'images/logo/.DS_Store' from '/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/public/images/logo/.DS_Store' to compilation assets"
         },
         {
           "type": "log",
@@ -6959,7 +6986,7 @@
           "message": "finished to adding additional assets"
         }
       ],
-      "filteredEntries": 99,
+      "filteredEntries": 103,
       "debug": false
     }
   },
