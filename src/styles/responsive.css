@@ -6,7 +6,7 @@
 
 	.hero {
 		margin-top: 3.8rem;
-		height: 40vh;
+		height: 30vh;
 	}
 
 	.hero__image_home {
@@ -65,7 +65,7 @@
 
 	.app-bar {
 		grid-template-columns: 1fr auto;
-		padding: 8px 32px;
+		padding: 0px 32px;
 	}
 
 	.app-bar .app-bar__brand h1 {
