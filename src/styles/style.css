@@ -133,7 +133,7 @@ main {
   transition: 350ms;
   text-decoration: none;
   width: 10em;
-  top: 0;
+  top: -5em;
   z-index: 100;
   position: absolute;
 }
@@ -141,7 +141,7 @@ main {
 .skip-to-content:focus {
   position: absolute;
   transform: translateY(0);
-  top: 3em;
+  top: 4em;
   z-index: 100;
   transition: all 0.3s;
 }
