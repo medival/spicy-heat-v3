@@ -134,7 +134,7 @@ main {
   text-decoration: none;
   width: 10em;
   top: 0;
-  z-index: 5;
+  z-index: 100;
   position: absolute;
 }
 
@@ -142,7 +142,7 @@ main {
   position: absolute;
   transform: translateY(0);
   top: 3em;
-  z-index: 5;
+  z-index: 100;
   transition: all 0.3s;
 }
 
@@ -238,13 +238,12 @@ main {
 
 .resto__overview__container {
   position: relative;
-  /* width: 60vw; */
   margin: 0 auto;
   background-color: rgba(0, 0, 0, 0.2);
   border-radius: .5em;
   display: grid;
   top: -5em;
-   grid-template-columns: 300px auto;
+  grid-template-columns: 300px auto;
   backdrop-filter: blur(6px);
 }
 
