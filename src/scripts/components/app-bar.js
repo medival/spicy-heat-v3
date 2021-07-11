@@ -9,10 +9,8 @@ class appBar extends HTMLElement {
 			<div class="app-bar__menu">
 				<button id="hamburgerButton">☰</button>
 			</div>
-			<div class="app-bar__brand">
-			<a href="/" id="logo">
+			<div class="app-bar__brand" id="logo">
 				<img class="app-bar__logo" src="assets/images/logo/logo.png" alt="logo-spicy-heat" srcset="" width="144" height="41">
-			</a>
 			</div>
 			<nav id="navigationDrawer" class="app-bar__navigation">
 				<ul>
