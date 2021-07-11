@@ -239,7 +239,7 @@ main {
 .resto__overview__container {
   position: relative;
   margin: 0 auto;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.7);
   border-radius: .5em;
   display: grid;
   top: -5em;
