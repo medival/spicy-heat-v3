@@ -1,17 +1,17 @@
-const { merge } = require('webpack-merge');
-const common = require('./webpack.common');
+const { merge } = require("webpack-merge");
+const common = require("./webpack.common");
 
 module.exports = merge(common, {
-  mode: 'production',
+  mode: "production",
   optimization: {
     splitChunks: {
-      chunks: 'all',
+      chunks: "all",
       minSize: 2000,
       maxSize: 7000,
       minChunks: 1,
       maxAsyncRequests: 30,
       maxInitialRequests: 30,
-      automaticNameDelimiter: '~',
+      automaticNameDelimiter: "~",
       enforceSizeThreshold: 5000,
       cacheGroups: {
         defaultVendors: {
@@ -30,12 +30,12 @@ module.exports = merge(common, {
     rules: [
       {
         test: /\.js$/,
-        exclude: '/node_modules/',
+        exclude: "/node_modules/",
         use: [
           {
-            loader: 'babel-loader',
+            loader: "babel-loader",
             options: {
-              presets: ['@babel/preset-env'],
+              presets: ["@babel/preset-env"],
             },
           },
         ],

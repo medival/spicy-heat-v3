@@ -1,238 +1,238 @@
 @media screen and (max-width: 650px) {
-	.resto__container {
+  .resto__container {
     width: 90%;
     margin: 0 auto;
   }
 
-	.hero {
-		margin-top: 3.8rem;
-		height: 30vh;
-	}
+  .hero {
+    margin-top: 3.8rem;
+    height: 30vh;
+  }
 
-	.hero__image_home {
-		background: url('/assets/images/heros/hero-image_2-small.jpg');
-		background-size: cover;
-		background-position: center;
-		background-repeat: no-repeat;
-	}
+  .hero__image_home {
+    background: url("/assets/images/heros/hero-image_2-small.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 
-	.resto__label {
-		margin-top: 2em;
-	}
+  .resto__label {
+    margin-top: 2em;
+  }
 
-	.hero__title {
-		font-size: x-large;
-	}
+  .hero__title {
+    font-size: x-large;
+  }
 
-	.hero__subtitle {
-		font-size: large;
-	}
+  .hero__subtitle {
+    font-size: large;
+  }
 
-	.hero__description {
-		font-size: small;
-		width: 90vw;
-	}
+  .hero__description {
+    font-size: small;
+    width: 90vw;
+  }
 
   .resto__list {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
 
-	.resto__list__menu {
-		display: grid;
-		grid-template-columns: repeat(1, 1fr);
-	}
+  .resto__list__menu {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
 
-	figure.resto__menu__food {
-		min-width: 180px;
-	}
+  figure.resto__menu__food {
+    min-width: 180px;
+  }
 
-	.container__image {
+  .container__image {
     display: none;
-	}
+  }
 
-	.container__info {
-		width: 90vw;
-		margin: 2em;
-	}
+  .container__info {
+    width: 90vw;
+    margin: 2em;
+  }
 }
 
 @media screen and (min-width: 651px) {
-	.resto__container {
+  .resto__container {
     width: 90%;
     margin: 0 auto;
   }
 
-	.app-bar {
-		grid-template-columns: 1fr auto;
-		padding: 0px 32px;
-	}
+  .app-bar {
+    grid-template-columns: 1fr auto;
+    padding: 0px 32px;
+  }
 
-	.app-bar .app-bar__brand h1 {
-		font-size: 1.5em;
-	}
+  .app-bar .app-bar__brand h1 {
+    font-size: 1.5em;
+  }
 
-	.app-bar .app-bar__menu {
-		display: none;
-	}
+  .app-bar .app-bar__menu {
+    display: none;
+  }
 
-	.app-bar .app-bar__navigation {
-		position: static;
-		width: 100%;
-	}
+  .app-bar .app-bar__navigation {
+    position: static;
+    width: 100%;
+  }
 
-	.app-bar .app-bar__navigation ul li {
-		display: inline-block;
-	}
+  .app-bar .app-bar__navigation ul li {
+    display: inline-block;
+  }
 
-	.app-bar .app-bar__navigation ul li a {
-		display: inline-block;
-		width: 120px;
-		text-align: center;
-		margin: 0;
-	}
+  .app-bar .app-bar__navigation ul li a {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+    margin: 0;
+  }
 
-	.hero {
-		margin-top: 3.8rem;
-		height: 40vh;
-	}
+  .hero {
+    margin-top: 3.8rem;
+    height: 40vh;
+  }
 
-	.hero__title {
-		font-size: xx-large;
-	}
+  .hero__title {
+    font-size: xx-large;
+  }
 
-	.hero__image_home {
-		background: url('/assets/images/heros/hero-image_2-large.jpg');
-		background-size: cover;
-		background-position: center;
-		background-repeat: no-repeat;
-	}
+  .hero__image_home {
+    background: url("/assets/images/heros/hero-image_2-large.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 
-	.hero__subtitle {
-		font-size: x-large;
-	}
+  .hero__subtitle {
+    font-size: x-large;
+  }
 
-	.hero__description {
-		font-size: small;
-	}
+  .hero__description {
+    font-size: small;
+  }
 
-	.resto__label {
-		margin-top: 2em;
-	}
+  .resto__label {
+    margin-top: 2em;
+  }
 
   .resto__list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
 
-	.resto__list__menu {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-	}
+  .resto__list__menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media screen and (min-width: 800px) {
-	.resto__container {
+  .resto__container {
     width: 90%;
     margin: 0 auto;
   }
 
-	.app-bar .app-bar__brand h1 {
-		font-size: 2em;
-	}
+  .app-bar .app-bar__brand h1 {
+    font-size: 2em;
+  }
 
-	.hero__title {
-		font-size: xx-large;
-	}
+  .hero__title {
+    font-size: xx-large;
+  }
 
-	.hero__subtitle {
-		font-size: x-large;
-	}
+  .hero__subtitle {
+    font-size: x-large;
+  }
 
-	.hero__description {
-		font-size: large;
-	}
+  .hero__description {
+    font-size: large;
+  }
 
-	.resto__list {
+  .resto__list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
 
-	.resto__container {
+  .resto__container {
     margin: 0 auto;
   }
 
-	.resto__list__menu {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-	figure.resto__menu__food {
-		min-width: 180px;
-	}
-}
-
-@media screen and (min-width: 850px) {
-	.resto__list__menu {
-		display: grid;
-		grid-template-columns: repeat(4, 1fr);
-	}
-
-	.resto__overview__container {
-		width: 90vw;
-	}
-}
-
-@media screen and (min-width: 1200px) {
-	.resto__overview__container {
-		width: 80vw;
-	}
-
-	.resto__container {
-    width: 80%;
-    margin: 0 auto;
-  }
-
-	.hero {
-		margin-top: 3.8rem;
-		height: 50vh;
-	}
-
-	.resto__label {
-		margin-top: 0;
-	}
-
-	.resto__list {
+  .resto__list__menu {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
   }
 
-	.resto__list__menu {
-		display: grid;
-		grid-template-columns: repeat(5, 1fr);
-	}
-
-	.resto__overview__container {
-		width: 70vw;
-	}
+  figure.resto__menu__food {
+    min-width: 180px;
+  }
 }
 
-@media screen and (min-width: 1600px) {
-	.resto__container {
-    width: 80%;
-    margin: 0 auto;
-  }
-	.resto__list {
+@media screen and (min-width: 850px) {
+  .resto__list__menu {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
   }
 
-	.resto__list__menu {
-		display: grid;
-		grid-template-columns: repeat(auto, 1fr);
-	}
+  .resto__overview__container {
+    width: 90vw;
+  }
+}
 
-	figure.resto__menu__food {
-		min-width: 200px;
-	}
+@media screen and (min-width: 1200px) {
+  .resto__overview__container {
+    width: 80vw;
+  }
+
+  .resto__container {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .hero {
+    margin-top: 3.8rem;
+    height: 50vh;
+  }
+
+  .resto__label {
+    margin-top: 0;
+  }
+
+  .resto__list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .resto__list__menu {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .resto__overview__container {
+    width: 70vw;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .resto__container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .resto__list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .resto__list__menu {
+    display: grid;
+    grid-template-columns: repeat(auto, 1fr);
+  }
+
+  figure.resto__menu__food {
+    min-width: 200px;
+  }
 }

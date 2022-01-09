@@ -1,20 +1,28 @@
-import CONFIG from '../../global/config';
+import CONFIG from "../../global/config";
 
 const createHeroTemplate = (resto) => `
 	<section class="hero">
 	 <h1 class="hero__title"> ${resto.restaurant.name} </h1>
-	 <img class="hero__image lazyload" data-src="${CONFIG.BASE_IMAGE_URL_MEDIUM + resto.restaurant.pictureId}" alt="${resto.name}">
+	 <img class="hero__image lazyload" data-src="${
+     CONFIG.BASE_IMAGE_URL_MEDIUM + resto.restaurant.pictureId
+   }" alt="${resto.name}">
 	</section>
 `;
 
 const createRestoCardOverview = (resto) => `
 	<div class="container__image">
-	    <img data-src="${CONFIG.BASE_IMAGE_URL + resto.restaurant.pictureId}" class="container__image_overview lazyload" alt="${resto.name}">
+	    <img data-src="${
+        CONFIG.BASE_IMAGE_URL + resto.restaurant.pictureId
+      }" class="container__image_overview lazyload" alt="${resto.name}">
 	</div>
 	<div class="container__info">
 	    <h2 class="container__info_header"> ${resto.restaurant.name} </h2>
-	    <h4 class="container__info_subheader"> ${resto.restaurant.address} di ${resto.restaurant.city} </h4>
-	    <p class="container__info_rating"> <i class="fa fa-star"></i> ${resto.restaurant.rating} </p>
+	    <h4 class="container__info_subheader"> ${resto.restaurant.address} di ${
+  resto.restaurant.city
+} </h4>
+	    <p class="container__info_rating"> <i class="fa fa-star"></i> ${
+        resto.restaurant.rating
+      } </p>
 	    <p class="container__info_resto_categories" id="container__info_categories">
 			</p>
 	    <p class="container__info_description"> ${resto.restaurant.description} </p>
@@ -81,11 +89,15 @@ ${review.review}
 const createRestoItemTemplate = (resto) => `
 	<a href="#/detail/${resto.id}" class="resto__selector">
 		<figure>
-				<img class="lazyload" data-src="${CONFIG.BASE_IMAGE_URL + resto.pictureId}" alt="${resto.name}">
+				<img class="lazyload" data-src="${
+          CONFIG.BASE_IMAGE_URL + resto.pictureId
+        }" alt="${resto.name}">
 				<div class="resto__info_container">
 					<h4 class="resto__info"> ${resto.rating} </h4>
 				</div>
-				<h3 class="resto__title" href="#/detail/${resto.id}"> ${resto.name} at ${resto.city} </h3>
+				<h3 class="resto__title" href="#/detail/${resto.id}"> ${resto.name} at ${
+  resto.city
+} </h3>
 				<p class="resto__description"> ${resto.description.substring(0, 150)} </p>
 		</figure>
 	</a>

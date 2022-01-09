@@ -24,4 +24,4 @@ class appBar extends HTMLElement {
   }
 }
 
-customElements.define('app-bar', appBar);
+customElements.define("app-bar", appBar);
