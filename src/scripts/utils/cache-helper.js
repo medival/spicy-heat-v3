@@ -1,4 +1,4 @@
-import CONFIG from '../global/config';
+import CONFIG from "../global/config";
 
 const CacheHelper = {
   async cachingAppShell(requests) {
@@ -9,7 +9,7 @@ const CacheHelper = {
   async deleteOldCache() {
     const cacheNames = await caches.keys();
     cacheNames
-      .filter((name) => name !== 'SpicyHeat-V2')
+      .filter((name) => name !== "SpicyHeat-V2")
       .map((filteredName) => caches.delete(filteredName));
   },
 

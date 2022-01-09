@@ -1,5 +1,5 @@
-import FavoriteRestoIdb from '../../data/favorite-resto-idb';
-import { createRestoItemTemplate } from '../templates/template-creator';
+import FavoriteRestoIdb from "../../data/favorite-resto-idb";
+import { createRestoItemTemplate } from "../templates/template-creator";
 
 const Favorite = {
   async render() {
@@ -17,17 +17,16 @@ const Favorite = {
 
   async afterRender() {
     const restos = await FavoriteRestoIdb.getAllRestos();
-    const restosContainer = document.querySelector('#resto');
-    const emptyLabel = document.querySelector('#empty');
+    const restosContainer = document.querySelector("#resto");
+    const emptyLabel = document.querySelector("#empty");
 
     if (restos.length !== 0) {
       restos.forEach((resto) => {
         restosContainer.innerHTML += createRestoItemTemplate(resto);
       });
-      emptyLabel.style.display = 'none';
+      emptyLabel.style.display = "none";
     }
   },
-
 };
 
 export default Favorite;

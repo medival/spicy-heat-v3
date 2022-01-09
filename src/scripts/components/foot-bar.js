@@ -26,4 +26,4 @@ class footBar extends HTMLElement {
   }
 }
 
-customElements.define('foot-bar', footBar);
+customElements.define("foot-bar", footBar);

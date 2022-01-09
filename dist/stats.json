@@ -782,84 +782,56 @@
     {
       "name": "defaultVendors~main~029bb380.bundle.js",
       "size": 7882,
-      "chunks": [
-        0
-      ],
-      "chunkNames": [
-        "defaultVendors~main~029bb380"
-      ],
+      "chunks": [0],
+      "chunkNames": ["defaultVendors~main~029bb380"],
       "info": {},
       "emitted": true
     },
     {
       "name": "defaultVendors~main~29527fdd.bundle.js",
       "size": 6848,
-      "chunks": [
-        1
-      ],
-      "chunkNames": [
-        "defaultVendors~main~29527fdd"
-      ],
+      "chunks": [1],
+      "chunkNames": ["defaultVendors~main~29527fdd"],
       "info": {},
       "emitted": true
     },
     {
       "name": "defaultVendors~main~3e36daba.bundle.js",
       "size": 2680,
-      "chunks": [
-        2
-      ],
-      "chunkNames": [
-        "defaultVendors~main~3e36daba"
-      ],
+      "chunks": [2],
+      "chunkNames": ["defaultVendors~main~3e36daba"],
       "info": {},
       "emitted": true
     },
     {
       "name": "defaultVendors~main~4c752646.bundle.js",
       "size": 955,
-      "chunks": [
-        3
-      ],
-      "chunkNames": [
-        "defaultVendors~main~4c752646"
-      ],
+      "chunks": [3],
+      "chunkNames": ["defaultVendors~main~4c752646"],
       "info": {},
       "emitted": true
     },
     {
       "name": "defaultVendors~main~690b702c.bundle.js",
       "size": 2712,
-      "chunks": [
-        4
-      ],
-      "chunkNames": [
-        "defaultVendors~main~690b702c"
-      ],
+      "chunks": [4],
+      "chunkNames": ["defaultVendors~main~690b702c"],
       "info": {},
       "emitted": true
     },
     {
       "name": "defaultVendors~main~e192a7e7.bundle.js",
       "size": 2404,
-      "chunks": [
-        5
-      ],
-      "chunkNames": [
-        "defaultVendors~main~e192a7e7"
-      ],
+      "chunks": [5],
+      "chunkNames": ["defaultVendors~main~e192a7e7"],
       "info": {},
       "emitted": true
     },
     {
       "name": "defaultVendors~main~ec8c427e.bundle.js",
       "size": 2998,
-      "chunks": [
-        6
-      ],
-      "chunkNames": [
-        "defaultVendors~main~ec8c427e"
-      ],
+      "chunks": [6],
+      "chunkNames": ["defaultVendors~main~ec8c427e"],
       "info": {},
       "emitted": true
     },
@@ -896,156 +868,104 @@
     {
       "name": "main~06eeecc7.bundle.js",
       "size": 12500,
-      "chunks": [
-        7
-      ],
-      "chunkNames": [
-        "main~06eeecc7"
-      ],
+      "chunks": [7],
+      "chunkNames": ["main~06eeecc7"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~29f26ec8.bundle.js",
       "size": 1397,
-      "chunks": [
-        8
-      ],
-      "chunkNames": [
-        "main~29f26ec8"
-      ],
+      "chunks": [8],
+      "chunkNames": ["main~29f26ec8"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~36b9faef.bundle.js",
       "size": 5003,
-      "chunks": [
-        9
-      ],
-      "chunkNames": [
-        "main~36b9faef"
-      ],
+      "chunks": [9],
+      "chunkNames": ["main~36b9faef"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~4cb58183.bundle.js",
       "size": 2853,
-      "chunks": [
-        10
-      ],
-      "chunkNames": [
-        "main~4cb58183"
-      ],
+      "chunks": [10],
+      "chunkNames": ["main~4cb58183"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~50056b6d.bundle.js",
       "size": 2823,
-      "chunks": [
-        11
-      ],
-      "chunkNames": [
-        "main~50056b6d"
-      ],
+      "chunks": [11],
+      "chunkNames": ["main~50056b6d"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~5395b641.bundle.js",
       "size": 3348,
-      "chunks": [
-        12
-      ],
-      "chunkNames": [
-        "main~5395b641"
-      ],
+      "chunks": [12],
+      "chunkNames": ["main~5395b641"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~5785a947.bundle.js",
       "size": 2311,
-      "chunks": [
-        13
-      ],
-      "chunkNames": [
-        "main~5785a947"
-      ],
+      "chunks": [13],
+      "chunkNames": ["main~5785a947"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~5b1324f7.bundle.js",
       "size": 3937,
-      "chunks": [
-        14
-      ],
-      "chunkNames": [
-        "main~5b1324f7"
-      ],
+      "chunks": [14],
+      "chunkNames": ["main~5b1324f7"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~73c02ba8.bundle.js",
       "size": 3962,
-      "chunks": [
-        15
-      ],
-      "chunkNames": [
-        "main~73c02ba8"
-      ],
+      "chunks": [15],
+      "chunkNames": ["main~73c02ba8"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~9848d259.bundle.js",
       "size": 1539,
-      "chunks": [
-        16
-      ],
-      "chunkNames": [
-        "main~9848d259"
-      ],
+      "chunks": [16],
+      "chunkNames": ["main~9848d259"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~a7463e62.bundle.js",
       "size": 4364,
-      "chunks": [
-        17
-      ],
-      "chunkNames": [
-        "main~a7463e62"
-      ],
+      "chunks": [17],
+      "chunkNames": ["main~a7463e62"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~be6f8458.bundle.js",
       "size": 1425,
-      "chunks": [
-        18
-      ],
-      "chunkNames": [
-        "main~be6f8458"
-      ],
+      "chunks": [18],
+      "chunkNames": ["main~be6f8458"],
       "info": {},
       "emitted": true
     },
     {
       "name": "main~d3f1e037.bundle.js",
       "size": 1773,
-      "chunks": [
-        19
-      ],
-      "chunkNames": [
-        "main~d3f1e037"
-      ],
+      "chunks": [19],
+      "chunkNames": ["main~d3f1e037"],
       "info": {},
       "emitted": true
     },
@@ -1073,26 +993,7 @@
   "entrypoints": {
     "main": {
       "chunks": [
-        3,
-        2,
-        5,
-        4,
-        0,
-        1,
-        6,
-        9,
-        12,
-        11,
-        13,
-        19,
-        15,
-        8,
-        10,
-        18,
-        16,
-        14,
-        17,
-        7
+        3, 2, 5, 4, 0, 1, 6, 9, 12, 11, 13, 19, 15, 8, 10, 18, 16, 14, 17, 7
       ],
       "assets": [
         "defaultVendors~main~4c752646.bundle.js",
@@ -1123,26 +1024,7 @@
   "namedChunkGroups": {
     "main": {
       "chunks": [
-        3,
-        2,
-        5,
-        4,
-        0,
-        1,
-        6,
-        9,
-        12,
-        11,
-        13,
-        19,
-        15,
-        8,
-        10,
-        18,
-        16,
-        14,
-        17,
-        7
+        3, 2, 5, 4, 0, 1, 6, 9, 12, 11, 13, 19, 15, 8, 10, 18, 16, 14, 17, 7
       ],
       "assets": [
         "defaultVendors~main~4c752646.bundle.js",
@@ -1178,33 +1060,11 @@
       "entry": false,
       "reason": "split chunk (cache group: defaultVendors) (name: defaultVendors~main)",
       "size": 22953,
-      "names": [
-        "defaultVendors~main~029bb380"
-      ],
-      "files": [
-        "defaultVendors~main~029bb380.bundle.js"
-      ],
+      "names": ["defaultVendors~main~029bb380"],
+      "files": ["defaultVendors~main~029bb380.bundle.js"],
       "hash": "aed9045c3b8a50f33fd8",
       "siblings": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -1221,9 +1081,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -1294,33 +1152,11 @@
       "entry": false,
       "reason": "split chunk (cache group: defaultVendors) (name: defaultVendors~main)",
       "size": 24803,
-      "names": [
-        "defaultVendors~main~29527fdd"
-      ],
-      "files": [
-        "defaultVendors~main~29527fdd.bundle.js"
-      ],
+      "names": ["defaultVendors~main~29527fdd"],
+      "files": ["defaultVendors~main~29527fdd.bundle.js"],
       "hash": "cdab79518c1e36a24454",
       "siblings": [
-        0,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -1337,9 +1173,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            1
-          ],
+          "chunks": [1],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -1392,33 +1226,11 @@
       "entry": false,
       "reason": "split chunk (cache group: defaultVendors) (name: defaultVendors~main)",
       "size": 6163,
-      "names": [
-        "defaultVendors~main~3e36daba"
-      ],
-      "files": [
-        "defaultVendors~main~3e36daba.bundle.js"
-      ],
+      "names": ["defaultVendors~main~3e36daba"],
+      "files": ["defaultVendors~main~3e36daba.bundle.js"],
       "hash": "535e3828e4d7df1d22fb",
       "siblings": [
-        0,
-        1,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -1435,9 +1247,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            2
-          ],
+          "chunks": [2],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/data/favorite-resto-idb.js",
           "issuerId": 3,
           "issuerName": "./src/scripts/data/favorite-resto-idb.js",
@@ -1492,15 +1302,8 @@
               "loc": "13:16-22"
             }
           ],
-          "usedExports": [
-            "openDB"
-          ],
-          "providedExports": [
-            "unwrap",
-            "wrap",
-            "deleteDB",
-            "openDB"
-          ],
+          "usedExports": ["openDB"],
+          "providedExports": ["unwrap", "wrap", "deleteDB", "openDB"],
           "optimizationBailout": [],
           "depth": 5
         }
@@ -1524,33 +1327,11 @@
       "entry": false,
       "reason": "split chunk (cache group: defaultVendors) (name: defaultVendors~main)",
       "size": 2517,
-      "names": [
-        "defaultVendors~main~4c752646"
-      ],
-      "files": [
-        "defaultVendors~main~4c752646.bundle.js"
-      ],
+      "names": ["defaultVendors~main~4c752646"],
+      "files": ["defaultVendors~main~4c752646.bundle.js"],
       "hash": "a15bb88df063b0045bee",
       "siblings": [
-        0,
-        1,
-        2,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -1567,9 +1348,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            3
-          ],
+          "chunks": [3],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
           "issuerId": 26,
           "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
@@ -1641,33 +1420,11 @@
       "entry": false,
       "reason": "split chunk (cache group: defaultVendors) (name: defaultVendors~main)",
       "size": 6184,
-      "names": [
-        "defaultVendors~main~690b702c"
-      ],
-      "files": [
-        "defaultVendors~main~690b702c.bundle.js"
-      ],
+      "names": ["defaultVendors~main~690b702c"],
+      "files": ["defaultVendors~main~690b702c.bundle.js"],
       "hash": "b69f689494c4bbf729ae",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -1684,9 +1441,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            4
-          ],
+          "chunks": [4],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/utils/sw-register.js",
           "issuerId": 19,
           "issuerName": "./src/scripts/utils/sw-register.js",
@@ -1726,9 +1481,7 @@
               "loc": "19:19-26"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
           "providedExports": null,
           "optimizationBailout": [
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
@@ -1746,9 +1499,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            4
-          ],
+          "chunks": [4],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -1801,33 +1552,11 @@
       "entry": false,
       "reason": "split chunk (cache group: defaultVendors) (name: defaultVendors~main)",
       "size": 7403,
-      "names": [
-        "defaultVendors~main~e192a7e7"
-      ],
-      "files": [
-        "defaultVendors~main~e192a7e7.bundle.js"
-      ],
+      "names": ["defaultVendors~main~e192a7e7"],
+      "files": ["defaultVendors~main~e192a7e7.bundle.js"],
       "hash": "980d1bc6188dac1b1e2b",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -1844,9 +1573,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            5
-          ],
+          "chunks": [5],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/idb/build/esm/index.js",
           "issuerId": 17,
           "issuerName": "./node_modules/idb/build/esm/index.js",
@@ -1969,17 +1696,8 @@
               "loc": "141:0-12"
             }
           ],
-          "usedExports": [
-            "r",
-            "w"
-          ],
-          "providedExports": [
-            "a",
-            "i",
-            "r",
-            "u",
-            "w"
-          ],
+          "usedExports": ["r", "w"],
+          "providedExports": ["a", "i", "r", "u", "w"],
           "optimizationBailout": [],
           "depth": 6
         }
@@ -2003,33 +1721,11 @@
       "entry": false,
       "reason": "split chunk (cache group: defaultVendors) (name: defaultVendors~main)",
       "size": 7379,
-      "names": [
-        "defaultVendors~main~ec8c427e"
-      ],
-      "files": [
-        "defaultVendors~main~ec8c427e.bundle.js"
-      ],
+      "names": ["defaultVendors~main~ec8c427e"],
+      "files": ["defaultVendors~main~ec8c427e.bundle.js"],
       "hash": "0ef1d83718bcd4a02f4e",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2046,9 +1742,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            6
-          ],
+          "chunks": [6],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
           "issuerId": 24,
           "issuerName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -2115,9 +1809,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            6
-          ],
+          "chunks": [6],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
           "issuerId": 25,
           "issuerName": "./src/styles/style.css",
@@ -2183,33 +1875,11 @@
       "initial": true,
       "entry": true,
       "size": 11119,
-      "names": [
-        "main~06eeecc7"
-      ],
-      "files": [
-        "main~06eeecc7.bundle.js"
-      ],
+      "names": ["main~06eeecc7"],
+      "files": ["main~06eeecc7.bundle.js"],
       "hash": "a927e29274fcc2981e5b",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2226,9 +1896,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            7
-          ],
+          "chunks": [7],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
           "issuerId": 25,
           "issuerName": "./src/styles/style.css",
@@ -2285,33 +1953,11 @@
       "initial": true,
       "entry": false,
       "size": 3023,
-      "names": [
-        "main~29f26ec8"
-      ],
-      "files": [
-        "main~29f26ec8.bundle.js"
-      ],
+      "names": ["main~29f26ec8"],
+      "files": ["main~29f26ec8.bundle.js"],
       "hash": "7f1df3a8dfcb975d08eb",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2328,9 +1974,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            8
-          ],
+          "chunks": [8],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -2365,12 +2009,8 @@
               "loc": "10:14-17"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 1
         }
@@ -2393,33 +2033,11 @@
       "initial": true,
       "entry": false,
       "size": 5912,
-      "names": [
-        "main~36b9faef"
-      ],
-      "files": [
-        "main~36b9faef.bundle.js"
-      ],
+      "names": ["main~36b9faef"],
+      "files": ["main~36b9faef.bundle.js"],
       "hash": "48ee75f696fe3d81df83",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2436,9 +2054,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            9
-          ],
+          "chunks": [9],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/detail.js",
           "issuerId": 15,
           "issuerName": "./src/scripts/views/pages/detail.js",
@@ -2497,13 +2113,8 @@
               "loc": "57:82-87"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "resto",
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["resto", "default"],
           "optimizationBailout": [
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
@@ -2528,33 +2139,11 @@
       "initial": true,
       "entry": false,
       "size": 5353,
-      "names": [
-        "main~4cb58183"
-      ],
-      "files": [
-        "main~4cb58183.bundle.js"
-      ],
+      "names": ["main~4cb58183"],
+      "files": ["main~4cb58183.bundle.js"],
       "hash": "796e718c3a915c6412f5",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2571,9 +2160,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            10
-          ],
+          "chunks": [10],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/routes/routes.js",
           "issuerId": 14,
           "issuerName": "./src/scripts/routes/routes.js",
@@ -2618,12 +2205,8 @@
               "loc": "7:17-23"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 3
         }
@@ -2646,33 +2229,11 @@
       "initial": true,
       "entry": false,
       "size": 5021,
-      "names": [
-        "main~50056b6d"
-      ],
-      "files": [
-        "main~50056b6d.bundle.js"
-      ],
+      "names": ["main~50056b6d"],
+      "files": ["main~50056b6d.bundle.js"],
       "hash": "a303a956eb17115948a4",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2689,9 +2250,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            11
-          ],
+          "chunks": [11],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -2743,33 +2302,11 @@
       "initial": true,
       "entry": false,
       "size": 5581,
-      "names": [
-        "main~5395b641"
-      ],
-      "files": [
-        "main~5395b641.bundle.js"
-      ],
+      "names": ["main~5395b641"],
+      "files": ["main~5395b641.bundle.js"],
       "hash": "c87d9711dfe86126162e",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2786,9 +2323,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            12
-          ],
+          "chunks": [12],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -2840,33 +2375,11 @@
       "initial": true,
       "entry": false,
       "size": 4677,
-      "names": [
-        "main~5785a947"
-      ],
-      "files": [
-        "main~5785a947.bundle.js"
-      ],
+      "names": ["main~5785a947"],
+      "files": ["main~5785a947.bundle.js"],
       "hash": "960cfbd8b2c41e228eaa",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -2883,9 +2396,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            13
-          ],
+          "chunks": [13],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/templates/template-creator.js",
           "issuerId": 0,
           "issuerName": "./src/scripts/views/templates/template-creator.js",
@@ -3021,12 +2532,8 @@
               "loc": "5:21-27"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 5
         },
@@ -3041,9 +2548,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            13
-          ],
+          "chunks": [13],
           "issuer": null,
           "issuerId": null,
           "issuerName": null,
@@ -3090,12 +2595,8 @@
               "loc": "36:21-34"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [
             "ModuleConcatenation bailout: Cannot concat with ./src/scripts/global/config.js because of ./src/scripts/views/templates/template-creator.js"
           ],
@@ -3180,12 +2681,8 @@
                   "loc": "36:21-34"
                 }
               ],
-              "usedExports": [
-                "default"
-              ],
-              "providedExports": [
-                "default"
-              ],
+              "usedExports": ["default"],
+              "providedExports": ["default"],
               "optimizationBailout": [],
               "depth": 4
             },
@@ -3264,12 +2761,8 @@
                   "loc": "63:29-41"
                 }
               ],
-              "usedExports": [
-                "default"
-              ],
-              "providedExports": [
-                "default"
-              ],
+              "usedExports": ["default"],
+              "providedExports": ["default"],
               "optimizationBailout": [],
               "depth": 5
             }
@@ -3287,9 +2780,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            13
-          ],
+          "chunks": [13],
           "issuer": null,
           "issuerId": null,
           "issuerName": null,
@@ -3335,33 +2826,11 @@
       "initial": true,
       "entry": false,
       "size": 5181,
-      "names": [
-        "main~5b1324f7"
-      ],
-      "files": [
-        "main~5b1324f7.bundle.js"
-      ],
+      "names": ["main~5b1324f7"],
+      "files": ["main~5b1324f7.bundle.js"],
       "hash": "bba665f387609bbe3d36",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        15,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -3378,9 +2847,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            14
-          ],
+          "chunks": [14],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
           "issuerId": 18,
           "issuerName": "./src/scripts/views/pages/favorite.js",
@@ -3583,33 +3050,11 @@
       "initial": true,
       "entry": false,
       "size": 8127,
-      "names": [
-        "main~73c02ba8"
-      ],
-      "files": [
-        "main~73c02ba8.bundle.js"
-      ],
+      "names": ["main~73c02ba8"],
+      "files": ["main~73c02ba8.bundle.js"],
       "hash": "e768de37d0678589e7db",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        16,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -3626,9 +3071,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            15
-          ],
+          "chunks": [15],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/app.js",
           "issuerId": 12,
           "issuerName": "./src/scripts/views/app.js",
@@ -3686,12 +3129,8 @@
               "loc": "34:20-29"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -3706,9 +3145,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            15
-          ],
+          "chunks": [15],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/app.js",
           "issuerId": 12,
           "issuerName": "./src/scripts/views/app.js",
@@ -3748,12 +3185,8 @@
               "loc": "33:6-21"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -3768,9 +3201,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            15
-          ],
+          "chunks": [15],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/app.js",
           "issuerId": 12,
           "issuerName": "./src/scripts/views/app.js",
@@ -3810,12 +3241,8 @@
               "loc": "49:23-29"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -3830,9 +3257,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            15
-          ],
+          "chunks": [15],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/detail.js",
           "issuerId": 15,
           "issuerName": "./src/scripts/views/pages/detail.js",
@@ -3882,12 +3307,8 @@
               "loc": "63:14-33"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 4
         },
@@ -3902,9 +3323,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            15
-          ],
+          "chunks": [15],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -3939,12 +3358,8 @@
               "loc": "20:2-12"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 1
         }
@@ -3967,33 +3382,11 @@
       "initial": true,
       "entry": false,
       "size": 2693,
-      "names": [
-        "main~9848d259"
-      ],
-      "files": [
-        "main~9848d259.bundle.js"
-      ],
+      "names": ["main~9848d259"],
+      "files": ["main~9848d259.bundle.js"],
       "hash": "4aaaba4bbf40276e0282",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        17,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -4010,9 +3403,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            16
-          ],
+          "chunks": [16],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/routes/routes.js",
           "issuerId": 14,
           "issuerName": "./src/scripts/routes/routes.js",
@@ -4066,12 +3457,8 @@
               "loc": "6:12-17"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 3
         }
@@ -4094,33 +3481,11 @@
       "initial": true,
       "entry": false,
       "size": 5193,
-      "names": [
-        "main~a7463e62"
-      ],
-      "files": [
-        "main~a7463e62.bundle.js"
-      ],
+      "names": ["main~a7463e62"],
+      "files": ["main~a7463e62.bundle.js"],
       "hash": "0bfe4f9eb8907397fb45",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        18,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19
       ],
       "parents": [],
       "children": [],
@@ -4137,9 +3502,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            17
-          ],
+          "chunks": [17],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -4183,9 +3546,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            17
-          ],
+          "chunks": [17],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
           "issuerId": 29,
           "issuerName": "./src/scripts/index.js",
@@ -4229,9 +3590,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            17
-          ],
+          "chunks": [17],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/responsive.css",
           "issuerId": 27,
           "issuerName": "./src/styles/responsive.css",
@@ -4288,33 +3647,11 @@
       "initial": true,
       "entry": false,
       "size": 2674,
-      "names": [
-        "main~be6f8458"
-      ],
-      "files": [
-        "main~be6f8458.bundle.js"
-      ],
+      "names": ["main~be6f8458"],
+      "files": ["main~be6f8458.bundle.js"],
       "hash": "4fc3f5eee58b97cd433b",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        19
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19
       ],
       "parents": [],
       "children": [],
@@ -4331,9 +3668,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            18
-          ],
+          "chunks": [18],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/routes/routes.js",
           "issuerId": 14,
           "issuerName": "./src/scripts/routes/routes.js",
@@ -4378,12 +3713,8 @@
               "loc": "8:15-23"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 3
         }
@@ -4406,33 +3737,11 @@
       "initial": true,
       "entry": false,
       "size": 3995,
-      "names": [
-        "main~d3f1e037"
-      ],
-      "files": [
-        "main~d3f1e037.bundle.js"
-      ],
+      "names": ["main~d3f1e037"],
+      "files": ["main~d3f1e037.bundle.js"],
       "hash": "48188a9d1a4b13de9bfb",
       "siblings": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
       ],
       "parents": [],
       "children": [],
@@ -4449,9 +3758,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            19
-          ],
+          "chunks": [19],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
           "issuerId": 18,
           "issuerName": "./src/scripts/views/pages/favorite.js",
@@ -4537,12 +3844,8 @@
               "loc": "32:21-37"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 4
         }
@@ -4572,9 +3875,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        14
-      ],
+      "chunks": [14],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
       "issuerId": 18,
       "issuerName": "./src/scripts/views/pages/favorite.js",
@@ -4769,9 +4070,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        13
-      ],
+      "chunks": [13],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/templates/template-creator.js",
       "issuerId": 0,
       "issuerName": "./src/scripts/views/templates/template-creator.js",
@@ -4907,12 +4206,8 @@
           "loc": "5:21-27"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 5
     },
@@ -4927,9 +4222,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        5
-      ],
+      "chunks": [5],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/idb/build/esm/index.js",
       "issuerId": 17,
       "issuerName": "./node_modules/idb/build/esm/index.js",
@@ -5052,17 +4345,8 @@
           "loc": "141:0-12"
         }
       ],
-      "usedExports": [
-        "r",
-        "w"
-      ],
-      "providedExports": [
-        "a",
-        "i",
-        "r",
-        "u",
-        "w"
-      ],
+      "usedExports": ["r", "w"],
+      "providedExports": ["a", "i", "r", "u", "w"],
       "optimizationBailout": [],
       "depth": 6
     },
@@ -5077,9 +4361,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        19
-      ],
+      "chunks": [19],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/favorite.js",
       "issuerId": 18,
       "issuerName": "./src/scripts/views/pages/favorite.js",
@@ -5165,12 +4447,8 @@
           "loc": "32:21-37"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 4
     },
@@ -5185,9 +4463,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        15
-      ],
+      "chunks": [15],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/app.js",
       "issuerId": 12,
       "issuerName": "./src/scripts/views/app.js",
@@ -5245,12 +4521,8 @@
           "loc": "34:20-29"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -5265,9 +4537,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        13
-      ],
+      "chunks": [13],
       "issuer": null,
       "issuerId": null,
       "issuerName": null,
@@ -5314,12 +4584,8 @@
           "loc": "36:21-34"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [
         "ModuleConcatenation bailout: Cannot concat with ./src/scripts/global/config.js because of ./src/scripts/views/templates/template-creator.js"
       ],
@@ -5404,12 +4670,8 @@
               "loc": "36:21-34"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 4
         },
@@ -5488,12 +4750,8 @@
               "loc": "63:29-41"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 5
         }
@@ -5511,9 +4769,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        6
-      ],
+      "chunks": [6],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
       "issuerId": 24,
       "issuerName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -5580,9 +4836,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        0
-      ],
+      "chunks": [0],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -5644,9 +4898,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        16
-      ],
+      "chunks": [16],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/routes/routes.js",
       "issuerId": 14,
       "issuerName": "./src/scripts/routes/routes.js",
@@ -5700,12 +4952,8 @@
           "loc": "6:12-17"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 3
     },
@@ -5720,9 +4968,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        9
-      ],
+      "chunks": [9],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/detail.js",
       "issuerId": 15,
       "issuerName": "./src/scripts/views/pages/detail.js",
@@ -5781,13 +5027,8 @@
           "loc": "57:82-87"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "resto",
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["resto", "default"],
       "optimizationBailout": [
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
@@ -5804,9 +5045,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        6
-      ],
+      "chunks": [6],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
       "issuerId": 25,
       "issuerName": "./src/styles/style.css",
@@ -5864,9 +5103,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        3
-      ],
+      "chunks": [3],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
       "issuerId": 26,
       "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
@@ -5929,9 +5166,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        8
-      ],
+      "chunks": [8],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -5966,12 +5201,8 @@
           "loc": "10:14-17"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 1
     },
@@ -5986,9 +5217,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        15
-      ],
+      "chunks": [15],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/app.js",
       "issuerId": 12,
       "issuerName": "./src/scripts/views/app.js",
@@ -6028,12 +5257,8 @@
           "loc": "33:6-21"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -6048,9 +5273,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        15
-      ],
+      "chunks": [15],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/app.js",
       "issuerId": 12,
       "issuerName": "./src/scripts/views/app.js",
@@ -6090,12 +5313,8 @@
           "loc": "49:23-29"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -6110,9 +5329,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        10
-      ],
+      "chunks": [10],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/routes/routes.js",
       "issuerId": 14,
       "issuerName": "./src/scripts/routes/routes.js",
@@ -6157,12 +5374,8 @@
           "loc": "7:17-23"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 3
     },
@@ -6177,9 +5390,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        15
-      ],
+      "chunks": [15],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/views/pages/detail.js",
       "issuerId": 15,
       "issuerName": "./src/scripts/views/pages/detail.js",
@@ -6229,12 +5440,8 @@
           "loc": "63:14-33"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 4
     },
@@ -6249,9 +5456,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        2
-      ],
+      "chunks": [2],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/data/favorite-resto-idb.js",
       "issuerId": 3,
       "issuerName": "./src/scripts/data/favorite-resto-idb.js",
@@ -6306,15 +5511,8 @@
           "loc": "13:16-22"
         }
       ],
-      "usedExports": [
-        "openDB"
-      ],
-      "providedExports": [
-        "unwrap",
-        "wrap",
-        "deleteDB",
-        "openDB"
-      ],
+      "usedExports": ["openDB"],
+      "providedExports": ["unwrap", "wrap", "deleteDB", "openDB"],
       "optimizationBailout": [],
       "depth": 5
     },
@@ -6329,9 +5527,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        18
-      ],
+      "chunks": [18],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/routes/routes.js",
       "issuerId": 14,
       "issuerName": "./src/scripts/routes/routes.js",
@@ -6376,12 +5572,8 @@
           "loc": "8:15-23"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 3
     },
@@ -6396,9 +5588,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        15
-      ],
+      "chunks": [15],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -6433,12 +5623,8 @@
           "loc": "20:2-12"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
-      "providedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
+      "providedExports": ["default"],
       "optimizationBailout": [],
       "depth": 1
     },
@@ -6453,9 +5639,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        4
-      ],
+      "chunks": [4],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/utils/sw-register.js",
       "issuerId": 19,
       "issuerName": "./src/scripts/utils/sw-register.js",
@@ -6495,9 +5679,7 @@
           "loc": "19:19-26"
         }
       ],
-      "usedExports": [
-        "default"
-      ],
+      "usedExports": ["default"],
       "providedExports": null,
       "optimizationBailout": [
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
@@ -6515,9 +5697,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        1
-      ],
+      "chunks": [1],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -6561,9 +5741,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        11
-      ],
+      "chunks": [11],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -6607,9 +5785,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        12
-      ],
+      "chunks": [12],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -6653,9 +5829,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        4
-      ],
+      "chunks": [4],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -6699,9 +5873,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        17
-      ],
+      "chunks": [17],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -6745,9 +5917,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        7
-      ],
+      "chunks": [7],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/style.css",
       "issuerId": 25,
       "issuerName": "./src/styles/style.css",
@@ -6796,9 +5966,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        17
-      ],
+      "chunks": [17],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/index.js",
       "issuerId": 29,
       "issuerName": "./src/scripts/index.js",
@@ -6842,9 +6010,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        17
-      ],
+      "chunks": [17],
       "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/style-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/css-loader/dist/cjs.js!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/styles/responsive.css",
       "issuerId": 27,
       "issuerName": "./src/styles/responsive.css",
@@ -6893,9 +6059,7 @@
       "built": true,
       "optional": false,
       "prefetched": false,
-      "chunks": [
-        13
-      ],
+      "chunks": [13],
       "issuer": null,
       "issuerId": null,
       "issuerName": null,
@@ -7386,12 +6550,8 @@
         {
           "name": "__child-HtmlWebpackPlugin_0",
           "size": 5844,
-          "chunks": [
-            0
-          ],
-          "chunkNames": [
-            "HtmlWebpackPlugin_0"
-          ],
+          "chunks": [0],
+          "chunkNames": ["HtmlWebpackPlugin_0"],
           "info": {},
           "emitted": false
         }
@@ -7399,24 +6559,16 @@
       "filteredAssets": 0,
       "entrypoints": {
         "HtmlWebpackPlugin_0": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "__child-HtmlWebpackPlugin_0"
-          ],
+          "chunks": [0],
+          "assets": ["__child-HtmlWebpackPlugin_0"],
           "children": {},
           "childAssets": {}
         }
       },
       "namedChunkGroups": {
         "HtmlWebpackPlugin_0": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "__child-HtmlWebpackPlugin_0"
-          ],
+          "chunks": [0],
+          "assets": ["__child-HtmlWebpackPlugin_0"],
           "children": {},
           "childAssets": {}
         }
@@ -7428,12 +6580,8 @@
           "initial": true,
           "entry": true,
           "size": 2167,
-          "names": [
-            "HtmlWebpackPlugin_0"
-          ],
-          "files": [
-            "__child-HtmlWebpackPlugin_0"
-          ],
+          "names": ["HtmlWebpackPlugin_0"],
+          "files": ["__child-HtmlWebpackPlugin_0"],
           "hash": "9f5b9f6bbaf66a1d63b2",
           "siblings": [],
           "parents": [],
@@ -7451,9 +6599,7 @@
               "built": true,
               "optional": false,
               "prefetched": false,
-              "chunks": [
-                0
-              ],
+              "chunks": [0],
               "issuer": null,
               "issuerId": null,
               "issuerName": null,
@@ -7506,9 +6652,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": null,
           "issuerId": null,
           "issuerName": null,
@@ -7559,12 +6703,8 @@
         {
           "name": "9603919f2978b2bb2e28",
           "size": 4623768,
-          "chunks": [
-            0
-          ],
-          "chunkNames": [
-            "favicon.png"
-          ],
+          "chunks": [0],
+          "chunkNames": ["favicon.png"],
           "info": {
             "immutable": true
           },
@@ -7574,24 +6714,16 @@
       "filteredAssets": 0,
       "entrypoints": {
         "favicon.png": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "9603919f2978b2bb2e28"
-          ],
+          "chunks": [0],
+          "assets": ["9603919f2978b2bb2e28"],
           "children": {},
           "childAssets": {}
         }
       },
       "namedChunkGroups": {
         "favicon.png": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "9603919f2978b2bb2e28"
-          ],
+          "chunks": [0],
+          "assets": ["9603919f2978b2bb2e28"],
           "children": {},
           "childAssets": {}
         }
@@ -7603,12 +6735,8 @@
           "initial": true,
           "entry": true,
           "size": 4620107,
-          "names": [
-            "favicon.png"
-          ],
-          "files": [
-            "9603919f2978b2bb2e28"
-          ],
+          "names": ["favicon.png"],
+          "files": ["9603919f2978b2bb2e28"],
           "hash": "cb0c6354d061df05e3ba",
           "siblings": [],
           "parents": [],
@@ -7626,9 +6754,7 @@
               "built": true,
               "optional": false,
               "prefetched": false,
-              "chunks": [
-                0
-              ],
+              "chunks": [0],
               "issuer": null,
               "issuerId": null,
               "issuerName": null,
@@ -7681,9 +6807,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": null,
           "issuerId": null,
           "issuerName": null,
@@ -7732,9 +6856,7 @@
         {
           "name": "sw.js",
           "size": 12182,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "chunkNames": [],
           "info": {},
           "emitted": false
@@ -7743,24 +6865,16 @@
       "filteredAssets": 0,
       "entrypoints": {
         "undefined": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "sw.js"
-          ],
+          "chunks": [0],
+          "assets": ["sw.js"],
           "children": {},
           "childAssets": {}
         }
       },
       "namedChunkGroups": {
         "undefined": {
-          "chunks": [
-            0
-          ],
-          "assets": [
-            "sw.js"
-          ],
+          "chunks": [0],
+          "assets": ["sw.js"],
           "children": {},
           "childAssets": {}
         }
@@ -7773,9 +6887,7 @@
           "entry": true,
           "size": 33683,
           "names": [],
-          "files": [
-            "sw.js"
-          ],
+          "files": ["sw.js"],
           "hash": "81e8ac4c5ffee4f0974f",
           "siblings": [],
           "parents": [],
@@ -7793,9 +6905,7 @@
               "built": true,
               "optional": false,
               "prefetched": false,
-              "chunks": [
-                0
-              ],
+              "chunks": [0],
               "issuer": null,
               "issuerId": null,
               "issuerName": null,
@@ -7842,12 +6952,8 @@
                   "loc": "26:20-31"
                 }
               ],
-              "usedExports": [
-                "default"
-              ],
-              "providedExports": [
-                "default"
-              ],
+              "usedExports": ["default"],
+              "providedExports": ["default"],
               "optimizationBailout": [],
               "depth": 1,
               "modules": [
@@ -7915,12 +7021,8 @@
                       "loc": "26:20-31"
                     }
                   ],
-                  "usedExports": [
-                    "default"
-                  ],
-                  "providedExports": [
-                    "default"
-                  ],
+                  "usedExports": ["default"],
+                  "providedExports": ["default"],
                   "optimizationBailout": [],
                   "depth": 1
                 },
@@ -7975,12 +7077,8 @@
                       "loc": "96:60-66"
                     }
                   ],
-                  "usedExports": [
-                    "default"
-                  ],
-                  "providedExports": [
-                    "default"
-                  ],
+                  "usedExports": ["default"],
+                  "providedExports": ["default"],
                   "optimizationBailout": [],
                   "depth": 2
                 }
@@ -7998,9 +7096,7 @@
               "built": true,
               "optional": false,
               "prefetched": false,
-              "chunks": [
-                0
-              ],
+              "chunks": [0],
               "issuer": null,
               "issuerId": null,
               "issuerName": null,
@@ -8037,9 +7133,7 @@
               "built": true,
               "optional": false,
               "prefetched": false,
-              "chunks": [
-                0
-              ],
+              "chunks": [0],
               "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/sw.js",
               "issuerId": 1,
               "issuerName": "./src/scripts/sw.js",
@@ -8083,9 +7177,7 @@
               "built": true,
               "optional": false,
               "prefetched": false,
-              "chunks": [
-                0
-              ],
+              "chunks": [0],
               "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/sw.js",
               "issuerId": 1,
               "issuerName": "./src/scripts/sw.js",
@@ -8129,9 +7221,7 @@
               "built": true,
               "optional": false,
               "prefetched": false,
-              "chunks": [
-                0
-              ],
+              "chunks": [0],
               "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/regenerator-runtime/runtime.js",
               "issuerId": 3,
               "issuerName": "./node_modules/regenerator-runtime/runtime.js",
@@ -8195,9 +7285,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": null,
           "issuerId": null,
           "issuerName": null,
@@ -8244,12 +7332,8 @@
               "loc": "26:20-31"
             }
           ],
-          "usedExports": [
-            "default"
-          ],
-          "providedExports": [
-            "default"
-          ],
+          "usedExports": ["default"],
+          "providedExports": ["default"],
           "optimizationBailout": [],
           "depth": 1,
           "modules": [
@@ -8317,12 +7401,8 @@
                   "loc": "26:20-31"
                 }
               ],
-              "usedExports": [
-                "default"
-              ],
-              "providedExports": [
-                "default"
-              ],
+              "usedExports": ["default"],
+              "providedExports": ["default"],
               "optimizationBailout": [],
               "depth": 1
             },
@@ -8377,12 +7457,8 @@
                   "loc": "96:60-66"
                 }
               ],
-              "usedExports": [
-                "default"
-              ],
-              "providedExports": [
-                "default"
-              ],
+              "usedExports": ["default"],
+              "providedExports": ["default"],
               "optimizationBailout": [],
               "depth": 2
             }
@@ -8400,9 +7476,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": null,
           "issuerId": null,
           "issuerName": null,
@@ -8439,9 +7513,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/sw.js",
           "issuerId": 1,
           "issuerName": "./src/scripts/sw.js",
@@ -8485,9 +7557,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/src/scripts/sw.js",
           "issuerId": 1,
           "issuerName": "./src/scripts/sw.js",
@@ -8531,9 +7601,7 @@
           "built": true,
           "optional": false,
           "prefetched": false,
-          "chunks": [
-            0
-          ],
+          "chunks": [0],
           "issuer": "/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/babel-loader/lib/index.js??ref--6-0!/Applications/MAMP/htdocs/dicoding/spicy-heat-v3/node_modules/regenerator-runtime/runtime.js",
           "issuerId": 3,
           "issuerName": "./node_modules/regenerator-runtime/runtime.js",
